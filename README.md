@@ -14,7 +14,7 @@ bower install command-queue
 
 Global
 ```html
-<script src="bower_components/command-queue.min.js">
+<script src="bower_components/command-queue.min.js"></script>
 ```
 ```js
 var CommandQueue = window.CommandQueue

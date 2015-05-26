@@ -1,5 +1,7 @@
 {
   "name": "command-queue",
+  "main": "command-queue.js",
+  "version": "0.0.1",
   "homepage": "https://github.com/tamtakoe/command-queue",
   "moduleType": [
     "amd",
@@ -9,5 +11,13 @@
     "command",
     "queue",
     "async"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }

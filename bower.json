@@ -1,3 +1,13 @@
 {
-  "name": "command-queue"
+  "name": "command-queue",
+  "homepage": "https://github.com/tamtakoe/command-queue",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "command",
+    "queue",
+    "async"
+  ]
 }
